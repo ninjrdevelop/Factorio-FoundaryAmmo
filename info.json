@@ -1,9 +1,9 @@
 {
 	"name": "ninjrs-foundry-ammo",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"title": "Ninjr's Foundry Ammo",
 	"author": "TheNinjrKillr",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": ["base >= 2.0", "space-age"],
 	"description": "This mod allows the user to create Gun Turret ammo in the foundry!"
   }
